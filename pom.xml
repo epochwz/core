@@ -8,4 +8,12 @@
   <artifactId>core</artifactId>
   <version>0.0.1</version>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub epochwz Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/epochwz/core</url>
+    </repository>
+  </distributionManagement>
+
 </project>
