@@ -5,3 +5,10 @@
 !LICENSE
 
 !README.md
+
+!docs
+!libs
+!src
+
+# Maven
+!pom.xml
